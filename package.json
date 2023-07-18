@@ -1,0 +1,16 @@
+{
+    "name": "my-framework",
+    "version": "1.0.0",
+    "description": "My Framework",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Test komutu henüz tanımlanmadı\"",
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+  }
